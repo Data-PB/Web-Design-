@@ -14,11 +14,11 @@ The website must consist of 7 pages total, including:
 
 Large screen:
 
-![Landing page large screen](Images/landingResize.png)
+![Landing page large screen](assets/Images/landingResize.png)
 
 Small screen:
 
-![Landing page small screen](Images/landing-sm.png)
+![Landing page small screen](assets/Images/landing-sm.png)
 
 
 * Four visualization pages, each with: 
@@ -33,11 +33,11 @@ Small screen:
 	
 	Large screen:
 
-![comparison page large screen](Images/comparison-lg.png)
+![comparison page large screen](assets/Images/comparison-lg.png)
 
 Small screen:
 
-![comparison page small screen](Images/comparison-sm.png)
+![comparison page small screen](assets/Images/comparison-sm.png)
 
 
 *	A "Data" page that: 
@@ -48,12 +48,12 @@ Small screen:
     
     Large screen:
 
-![data page large screen](Images/data-lg.png)
+![data page large screen](assets/Images/data-lg.png)
 
 
 Small screen:
 
-![data page small screen](Images/data-sm.png)
+![data page small screen](assets/Images/data-sm.png)
 
 
 * The website, at the top of every page, have a navigation menu that:
